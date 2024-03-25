@@ -1,0 +1,263 @@
+[
+    {
+      
+        "registerNumber": "2021242005",
+        "name":"GOKULRAMANA R",
+        "password": "2005",
+        "semesters": [
+          {
+            "semester": "1",
+            "performance": [
+              {
+                "course_code": "HS5152",
+                "grade": "A",
+                "credits": 3
+              },
+              {
+                "course_code": "HS5161",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "MA5151",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "PH5152",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5151",
+                "grade": "C",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5152",
+                "grade": "B",
+                "credits": 2
+              },
+              {
+                "course_code": "XC5161",
+                "grade": "B",
+                "credits": 2
+              }
+            ]
+          },
+          {
+            "semester": "2",
+            "performance": [
+              {
+                "course_code": "CY5253",
+                "grade": "B+",
+                "credits": 3
+              },
+              {
+                "course_code": "HS5252",
+                "grade": "A+",
+                "credits": 4
+              },
+              {
+                "course_code": "MA5251",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5251",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5252",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5253",
+                "grade": "C",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5261",
+                "grade": "C",
+                "credits": 3
+              }
+            ]
+          },
+          {
+            "semester": "3",
+            "performance": [
+              {
+                "course_code": "MA5351",
+                "grade": "A+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5351",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5352",
+                "grade": "B+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5353",
+                "grade": "A+",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5354",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5361",
+                "grade": "A+",
+                "credits": 2
+              },
+              {
+                "course_code": "XC5362",
+                "grade": "A",
+                "credits": 2
+              }
+            ]
+          },
+          {
+            "semester": "4",
+            "performance": [
+              {
+                "course_code": "MA5451",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5451",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5452",
+                "grade": "B+",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5453",
+                "grade": "B+",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5454",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5461",
+                "grade": "A+",
+                "credits": 2
+              },
+              {
+                "course_code": "XC5462",
+                "grade": "O",
+                "credits": 2
+              },
+              {
+                "course_code": "XC5463",
+                "grade": "O",
+                "credits": 2
+              }
+            ]
+          },
+          {
+            "semester": "5",
+            "performance": [
+              {
+                "course_code": "XC5072",
+                "grade": "A+",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5551",
+                "grade": "B+",
+                "credits": 3
+              },
+              {
+                "course_code": "XC5552",
+                "grade": "A+",
+                "credits": 4
+              },
+              {
+                "course_code": "XC5561",
+                "grade": "A",
+                "credits": 2
+              },
+              {
+                "course_code": "XT5074",
+                "grade": "O",
+                "credits": 3
+              },
+              {
+                "course_code": "XT5501",
+                "grade": "A",
+                "credits": 4
+              },
+              {
+                "course_code": "XT5551",
+                "grade": "A+",
+                "credits": 4
+              }
+            ]
+          }
+        ]
+      },
+    
+      {
+        "registerNumber": "2021239002",
+        "name":"CHARUMATHI R",
+        "password": "9002",
+        "semesters": [
+          {
+            "semester": "1",
+            "performance": [
+              {
+                "course_code": "XC5850",
+                "grade": "A",
+                "credits": 4
+              }
+            ]
+          },
+          {
+            "semester": "2",
+            "performance": [
+              {
+                "course_code": "XD5849",
+                "grade": "B",
+                "credits": 5
+              }
+            ]
+          },
+          {
+            "semester": "3",
+            "performance": [
+              {
+                "course_code": "XE5839",
+                "grade": "D",
+                "credits": 6
+              },
+              {
+                "course_code": "XE5829",
+                "grade": "C",
+                "credits": 6
+              }
+            ]
+          }
+        ]
+      }
+    
+  ]
+
+  
+
+  
