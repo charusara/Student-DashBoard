@@ -141,11 +141,11 @@ const BarchartData = () => {
             <GPABarChart calarr={calarr} className="chart" />
           </div>
           <div className="card w-[300px]">
-            <h4>CGPA</h4>
+            <h4>OVERALL CGPA</h4>
             <CgpaPieChart cgpa={calculateCGPA()} />
           </div>
           <div className="card mb-3">
-            <h4>CGPA EACH SEMESTER</h4>
+            <h4>CGPA OF EACH SEMESTER</h4>
             <CgpaSemLineChart calarr={calarr} />
           </div>
         </div>

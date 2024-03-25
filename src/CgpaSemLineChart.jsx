@@ -20,14 +20,21 @@ const CgpaSemLineChart = ({ calarr }) => {
           {
             label: "CGPA Sem Chart",
             data: calarr.cgpasem,
-            backgroundColor:['rgb(255, 99, 132)',
-            'rgb(54, 162, 235)',
-            'rgb(255, 205, 86)',
-            'rgb(25, 205, 86)',
-            'rgb(25, 200, 186)'],
+            backgroundColor: [
+              "rgb(255, 99, 132)",
+              "rgb(54, 162, 235)",
+              "rgb(255, 205, 86)",
+              "rgb(25, 205, 86)",
+              "rgb(25, 200, 186)",
+              "rgb(299, 99, 99)",
+              "rgb(504, 1602, 35)",
+              "rgb(155, 505, 886)",
+              "rgb(265, 265, 186)",
+              "rgb(225, 100, 16)",
+            ],
             borderColor: "rgba(0, 0, 0, 1)",
-            borderWidth: 2, 
-            hoverOffset: 20
+            borderWidth: 2,
+            hoverOffset: 20,
           },
         ],
       },
@@ -35,7 +42,7 @@ const CgpaSemLineChart = ({ calarr }) => {
         scales: {
           y: {
             beginAtZero: true,
-            max:10,
+            max: 10,
           },
         },
       },
@@ -56,7 +63,7 @@ const CgpaSemLineChart = ({ calarr }) => {
   return <canvas ref={chartRef} />;
 };
 
-  CgpaSemLineChart.propTypes = {
+CgpaSemLineChart.propTypes = {
   calarr: PropTypes.shape({
     xarr: PropTypes.arrayOf(PropTypes.string).isRequired,
     cgpasem: PropTypes.arrayOf(PropTypes.number).isRequired,

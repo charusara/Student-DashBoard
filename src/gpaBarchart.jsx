@@ -11,7 +11,7 @@ const gpaBarchart = ({ calarr }) => {
       chartInstance.current.destroy();
     }
     console.log(calarr.xarr);
-    console.log(calarr.gpasem)
+    console.log(calarr.gpasem);
 
     const ctx = chartRef.current.getContext("2d");
     chartInstance.current = new Chart(ctx, {
@@ -23,15 +23,20 @@ const gpaBarchart = ({ calarr }) => {
             label: "GPA Chart",
             data: calarr.gpasem,
             backgroundColor: [
-              'rgb(255, 99, 132)',
-              'rgb(54, 162, 235)',
-              'rgb(255, 205, 86)',
-              'rgb(25, 205, 86)',
-              'rgb(25, 200, 186)',
+              "rgb(255, 99, 132)",
+              "rgb(54, 162, 235)",
+              "rgb(255, 205, 86)",
+              "rgb(25, 205, 86)",
+              "rgb(25, 200, 186)",
+              "rgb(299, 99, 99)",
+              "rgb(504, 1602, 35)",
+              "rgb(155, 505, 886)",
+              "rgb(265, 265, 186)",
+              "rgb(225, 100, 16)",
             ],
             borderColor: "rgba(0, 0, 0, 1)",
-            borderWidth: 2, 
-            hoverOffset: 20
+            borderWidth: 2,
+            hoverOffset: 20,
           },
         ],
       },
