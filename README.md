@@ -26,8 +26,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 Install the dependencies using npm:
- - npm install
-   
+```
+  npm install
+   ```
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
   Fork the repository
@@ -37,7 +38,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   Create a new Pull Request
   
 ## UI
-<img src = " https://github.com/charusara/Student-DashBoard/blob/main/src/assets/Student-dashboard-UI.png " alt="Dashboard UI">
+<img src = "https://github.com/charusara/Student-DashBoard/blob/main/src/assets/Student-dashboard-UI.png" alt="Dashboard UI">
 
 
 
