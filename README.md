@@ -1,8 +1,45 @@
-# React + Vite
+# Student Marks Visualization Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React.js application where students can visualize their marks, GPA, and CGPA in graphical form.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Input marks for individual subjects
+- Calculate GPA (Grade Point Average) and CGPA (Cumulative Grade Point Average)
+- Visualize marks, GPA, and CGPA using graphs
+
+
+
+To install this project, follow these steps:
+
+1. Clone the repository to your local machine using Git:
+   
+```bash
+git clone https://github.com/charusara/Student-DashBoard.git
+```
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+
+- Node.js installed on your local machine
+- npm (Node Package Manager) or yarn installed on your local machine
+
+
+## Installation
+Install the dependencies using npm:
+ - npm install
+   
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+  Fork the repository
+  Create your feature branch (git checkout -b feature/your-feature-name)
+  Commit your changes (git commit -am 'Add some feature')
+  Push to the branch (git push origin feature/your-feature-name)
+  Create a new Pull Request
+
+
+
+
+
+
+
+
