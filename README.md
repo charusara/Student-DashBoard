@@ -35,7 +35,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   Commit your changes (git commit -am 'Add some feature')
   Push to the branch (git push origin feature/your-feature-name)
   Create a new Pull Request
-
+  
+## UI
+<img src = " https://github.com/charusara/Student-DashBoard/blob/main/src/assets/Student-dashboard-UI.png " alt="Dashboard UI">
 
 
 
