@@ -39,6 +39,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   
 ## UI
 <img src = "https://github.com/charusara/Student-DashBoard/blob/main/src/assets/Student-dashboard-UI.png" alt="Dashboard UI">
+<img src = "https://github.com/charusara/Student-DashBoard/blob/main/src/assets/Dashboard_UI_2.png" alt="Dashboard UI">
 
 
 
