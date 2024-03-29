@@ -29,6 +29,10 @@ Install the dependencies using npm:
 ```
   npm install
    ```
+## To run the application, use the following command
+```
+npm run dev
+```
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
   Fork the repository
